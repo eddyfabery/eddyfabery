@@ -11,10 +11,11 @@ I'm a builder who loves taking projects from **0 → 1** and architecting scalab
 
 ### 🛠️ Tech Stack
 **Languages:** Python · TypeScript · JavaScript · Go · Ruby · C · Bash  
-**Frameworks:** React · Django · Node.js · Rails · Serverless  
+**Frameworks:** React · Django · FastAPI · Node.js · Rails · Serverless  · Airflow · DBT · FastMCP 
 **ML/AI:** PyTorch · scikit-learn  
 **Infrastructure:** AWS/GCP · Docker · Linux · Terraform · Kubernetes  
-**Data:** PostgreSQL · MySQL · Redis · Elasticsearch · Redshift
+**Data Frameworks:** Airflow · DBT · Kafka · HDFS · Spark · EMR 
+**Data:** PostgreSQL · MySQL · Redis · Elasticsearch · Redshift · MongoDB · Hive/Athena · Snowflake
 
 ---
 
